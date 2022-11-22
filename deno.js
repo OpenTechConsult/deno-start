@@ -1,5 +1,7 @@
-function a() {
-    return 42
-}
+const food = 'love'
 
-console.log(a())
+if (food === 'hate') {
+    console.log('🦕... is born')
+} else {
+    console.log('🥚... need some love')
+}
